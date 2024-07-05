@@ -1,5 +1,5 @@
-# Wine Tasting
-Wine tasting is the sensory examination and evaluation of wine. While subjective in nature, wine tasting follows a structured process that allows for a detailed analysis of a wine's characteristics, including appearance, aroma, taste, and finish. This practice combines both art and science, requiring both knowledge and experience to fully appreciate the complexities of different wines.
+# Wine Quality Prediction
+Wine quality prediction is the sensory examination and evaluation of wine. While subjective in nature, wine tasting follows a structured process that allows for a detailed analysis of a wine's characteristics, including appearance, aroma, taste, and finish. This practice combines both art and science, requiring both knowledge and experience to fully appreciate the complexities of different wines.
 
 This project is executed using machine learning with python. This project is done in Artificial Intelligence and Neural Network course and various libraries in python 
 
